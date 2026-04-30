@@ -8,7 +8,7 @@ crons = ["*/30 * * * *", "0 17 * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "friend-flow-db"
-database_id = "a1d60591-8c0a-4009-bdfb-78ca2144935c"
+database_id = "091261cc-3784-43b7-ada3-6de68914011f"
 
 [vars]
 GITHUB_RAW_BASE = "https://ainzrimuru.github.io/friend_flow_apply"
